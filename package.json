@@ -34,6 +34,7 @@
     },
     "dependencies": {
         "chart.js": "^3.7.0",
-        "pagerank.js": "^1.0.2"
+        "pagerank.js": "^1.0.2",
+        "yarn": "^1.22.18"
     }
 }
